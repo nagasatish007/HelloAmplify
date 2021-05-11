@@ -1,5 +1,4 @@
 'use strict';
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
