@@ -1,0 +1,19 @@
+{
+  "name": "hapi-for-amplify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-amplify/ui-react": "^1.1.0",
+    "@hapi/hapi": "^20.1.2",
+    "aws-amplify": "^3.4.0",
+    "hapi": "^18.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
